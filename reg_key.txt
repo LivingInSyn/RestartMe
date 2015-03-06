@@ -1,0 +1,8 @@
+Key-
+	HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+Name:
+	the exe file
+Type:
+	reg_sz
+Data:
+	RUNASADMIN

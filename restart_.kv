@@ -1,0 +1,28 @@
+<Screen>:
+	canvas:
+		Color:
+			rgb: .13, .13, .13
+		Rectangle:
+			size: self.size
+
+<Restart_Screen>:
+	
+	BoxLayout:
+		
+		orientation: 'vertical'
+		
+		padding: '10dp'
+		
+		
+		Label:
+			id: text_label
+			color: 1,1,1,1
+			#size_hint_x: .8
+			text: "If you would like to restart the machine,\n please press Restart"
+			halign: "center"
+		Button:
+			text: 'Restart'
+			id: button1
+			height: '100dp'
+			width: self.height
+			on_release: app.restart_me()
