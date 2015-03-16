@@ -40,8 +40,8 @@ class Restart_App(App):
         return root
         
     def restart_me(self):
-        #subprocess.Popen(["shutdown.exe","/r","/t 3"])
-        print("would have restarted")
+        subprocess.Popen(["shutdown.exe","/r","/t","3"])
+        #print("would have restarted")
         
 if __name__ == '__main__':
     Restart_App().run()
