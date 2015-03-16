@@ -58,7 +58,8 @@ def install(directory,ver):
         reg_file = "admin_key_64.reg"
         lnk_file = "RestartMe_64.lnk"
     #use regedit in silent mode to place the value in the key
-    subprocess.Popen(["regedit.exe","/s",reg_file])
+    reg_file_path = os.path.join(directory,reg_file)
+    subprocess.Popen(["regedit.exe","/s",reg_file_path])
     #create the short cut
     to_copy = os.path.join(directory,lnk_file)
     util.copy(to_copy,"C:\\Users\\Public\\Desktop\\")
