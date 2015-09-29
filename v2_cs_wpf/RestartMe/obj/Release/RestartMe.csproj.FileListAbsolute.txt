@@ -1,0 +1,13 @@
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\bin\Release\RestartMe.exe.config
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\bin\Release\RestartMe.exe
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\bin\Release\RestartMe.pdb
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\MainWindow.g.cs
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\App.g.cs
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\RestartMe_MarkupCompile.cache
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\RestartMe_MarkupCompile.lref
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\MainWindow.baml
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\RestartMe.g.resources
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\RestartMe.Properties.Resources.resources
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\RestartMe.csproj.GenerateResource.Cache
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\RestartMe.exe
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Release\RestartMe.pdb

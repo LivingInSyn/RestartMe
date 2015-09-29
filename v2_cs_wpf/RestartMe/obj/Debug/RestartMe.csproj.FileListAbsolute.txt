@@ -1,0 +1,14 @@
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\bin\Debug\RestartMe.exe.config
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\bin\Debug\RestartMe.exe
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\bin\Debug\RestartMe.pdb
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\RestartMe.csprojResolveAssemblyReference.cache
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\MainWindow.g.cs
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\App.g.cs
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\RestartMe_MarkupCompile.cache
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\RestartMe_MarkupCompile.lref
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\MainWindow.baml
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\RestartMe.g.resources
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\RestartMe.Properties.Resources.resources
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\RestartMe.csproj.GenerateResource.Cache
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\RestartMe.exe
+c:\users\student1953\documents\visual studio 2015\Projects\RestartMe\RestartMe\obj\Debug\RestartMe.pdb
